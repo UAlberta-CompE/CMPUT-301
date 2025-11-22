@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_app">#FCD8CD</color>
+    <color name="btn_primary">#EBD6FB</color>
+    <color name="emoji_bg">#FEEBF6</color>
+
+    <color name="text_primary">#222222</color>
+    <color name="text_on_button">#EBD6FB</color>
+</resources>
